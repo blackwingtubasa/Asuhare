@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+head{
+    text-align: center;
+    margin: auto;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: floralwhite;
+}
+
+p{
+    writing-mode: vertical-rl;
+    margin-top: 30px;
+    max-height: 35em;
+    
+}
